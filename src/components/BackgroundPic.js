@@ -27,8 +27,8 @@ const OutlineAni = keyframes`
 `;
 
 const BackContainer = styled.div`
-  width: 1920px;
-  height: 1080px;
+  width: 1900px;
+  height: 1000px;
   position: relative;
   background-image: url(${Background});
   background-size: cover;
